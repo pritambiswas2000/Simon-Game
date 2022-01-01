@@ -1,6 +1,9 @@
 # Simon Game
 This is a memory based game designed to enhance memory retention. And is fun to play too!
 
+## Demo
+![simon-game](https://user-images.githubusercontent.com/63553187/147845789-e8a95a5a-d13f-4e29-85f9-d854d545f70e.gif)
+
 ## Game instructions
 * Press any key to start. 
 * Simon will give the first signal. (One of the Color Lenses will light up, accompanied by a tone.)
@@ -13,9 +16,6 @@ This is a memory based game designed to enhance memory retention. And is fun to 
 ## Victory
 * If you fail to complete the sequence in the correct order, the Buzzer will sound and the game will end.
 * Simon displays your level in the game, so you can play to beat it the next time you play!
-
-## Demo
-![simon-game](https://user-images.githubusercontent.com/63553187/147845789-e8a95a5a-d13f-4e29-85f9-d854d545f70e.gif)
 
 ## Tech Stack
 * HTML (Structure)
